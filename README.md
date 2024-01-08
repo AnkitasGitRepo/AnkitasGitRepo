@@ -5,17 +5,14 @@
 
 - 🔭 I’m currently taking training under the **Amber** Project 
 
-- 🌱 Uder the project I am going to learn Java Programming Language, Web Development Technologies such as HTML, CSS, JS, Angular and Git, GitHub. 
+- 📄 Uder the project I am going to learn Java Programming Language, Web Development Technologies such as HTML, CSS, JS, Angular and Git, GitHub.  I'm Passionate about the programming,to enhance my knowledge ready to get up for the learning new things. Enthusiastic to Web Developing ready to Implement Innovative Solution and Familiar with salesforce technology, SFDC platform .
 
 - 💬 Ask me about **Java** **Salesforce**
 
-- 📫 How to reach me **ankitacmahajan114@gmail.com**
+- 📫 How to reach me **ankitacmahajan114@gmail.com 8983939387** 
 
-- 📄 I'm Passionate about the programming,to enhance my knowledge ready to get up for the learning new things. Enthusiastic to Web Developing ready to Implement Innovative Solution.
 
-**Experince**
-- Intern at Persistent System
-- Worked on Salesforce Technology as a Software Engineer at a Persistent System.
+
   
 
 
