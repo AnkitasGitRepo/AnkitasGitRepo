@@ -1,11 +1,7 @@
 <h2 align="center">Hi 👋, I'm Ankita Mahajan</h2>
-<h4 align="center"> Passionate about Full Stack Java Developer</h4>
+<h4 align="center"> Passionate about A Full Stack Java Developer</h4>
 
-**About me**
-
-- 🔭 I’m currently taking training under the **Amber** Project 
-
-- 📄 Uder the **AMBER** project I am going to learn Java Programming Language, Web Development Technologies such as HTML, CSS, JS, Angular and Git, GitHub.  I'm Passionate about the programming,to enhance my knowledge ready to get up for the learning new things. Enthusiastic to Web Developing ready to Implement Innovative Solution and Familiar with salesforce technology, SFDC platform .
+I’m passionate about clean code, best practices, and continuous learning. My approach to development is centered around understanding user needs and translating them into efficient, maintainable code.
 
 - 💬 Ask me about **Java** **Salesforce**
 
