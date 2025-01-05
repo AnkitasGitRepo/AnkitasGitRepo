@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋, I'm Ankita Mahajan</h2>
-<h4 align="center"> Passionate about A Full Stack Java Developer</h4>
+<h4 align="center"> Passionate about A FrontEnd Development </h4>
 
 I’m passionate about clean code, best practices, and continuous learning. My approach to development is centered around understanding user needs and translating them into efficient, maintainable code.
 
-- 💬 Ask me about **Java** **Salesforce**
+- 💬 Ask me about **FrontEnd** **React.JS**
 
-- 📫 How to reach me **ankitacmahajan114@gmail.com 8983939387**
+- 📫 How to reach me **ankitaamahajan78@gmail.com 8983939387**
 
   
 <p>
